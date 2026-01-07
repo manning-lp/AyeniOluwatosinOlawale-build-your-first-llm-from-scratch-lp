@@ -1,1 +1,1 @@
-# building-your-first-sample-llm-from-scratch-lp-author
+# Starter files for Project 1: Build Your First LLM from Scratch
