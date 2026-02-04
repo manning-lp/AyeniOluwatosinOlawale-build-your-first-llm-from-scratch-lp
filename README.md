@@ -1,5 +1,5 @@
 
-# LLaMA 3.2 3B – Build Your First LLM from Scratch
+# LLaMA 3.2 3B – Build LLM from Scratch
 
 ## Overview
 
